@@ -15,8 +15,9 @@ pip install -r requirements.txt
 ```bash
 python robosuite/environments/manipulation/pick_place_teleop.py
 ```
-[Screencast from 09-25-2025 03_54_51 PM.webm](https://github.com/user-attachments/assets/fae7c150-71c4-4d34-a7f3-2eea8a4624e4)
-[Screencast from 09-25-2025 03_57_54 PM.webm](https://github.com/user-attachments/assets/e2914d7c-1470-4e6f-8272-a1b8d0737e69)
+[Screencast from 09-25-2025 03:54:51 PM.webm](https://github.com/user-attachments/assets/bd16e6b2-ac4a-44fa-bbd7-12d68b486d90)
+[Screencast from 09-25-2025 03:57:54 PM.webm](https://github.com/user-attachments/assets/9f0aeaba-a902-4cf4-b918-aac57536e6d9)
+
 
 #### view 전환 키 -> [
 [Screencast from 09-25-2025 04_03_07 PM.webm](https://github.com/user-attachments/assets/419739cf-3426-47c8-bf53-73a8ece34931)
